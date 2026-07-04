@@ -17,4 +17,4 @@ This project was built twice — first in C, then rewritten in C++ — to unders
 
 ## Tech Stack
 - Language: C, C++
-- Compiler: GCC
+- Compiler: Clang (macOS)
